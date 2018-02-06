@@ -16,6 +16,8 @@ namespace gestorLog
     {
         #region Variables / Constantes globales
         internal string nombreFichero = string.Empty;
+        internal string Prueba = string.Empty;
+
         internal string rutaFichero = string.Empty;
         internal Basicos.Modos modo = Basicos.Modos.Completo;
 
