@@ -14,10 +14,6 @@ namespace pruebas
     {
         static void Main(string[] args)
         {
-            /// Esto es una modificacion para probar la sincronizacion con el GitHub
-
-
-
             /* Publicar log en fichero
             StreamWriter fichero;
             string nombreFichero = string.Empty;
