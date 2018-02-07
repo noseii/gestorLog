@@ -1,0 +1,2 @@
+# gestorLog
+Gestor de Log
